@@ -1,0 +1,33 @@
+typography_spectrum: 0.7197811116930097
+color:
+  brandStrength: 0.6118828512262553
+  lightness: 0.3482854967005551
+  saturation: 0.6902824055869132
+  rhythmicContrast: 0.7919228950049728
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+github: true
+layout_spectrum: 0.42388874548487365
+author:
+  name: Jay Martin
+  email: james.martin7@gmail.com
+  url: webappzero.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/87ed3729-547f-4a35-8d49-fb9ab0c536cb.png
+name: webappzero
+navigation:
+  - name: about
+    id: c2ac7c61-0e2d-4a5a-9aa6-98afc5537f3c
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c21ae319-fa4a-48c5-8a6c-459015cb5024.png
+title: web app zero
+description: a path toward mastery
+purpose:
+  - type: external
+    url: 'http://webappzero.subscribemenow.com/'
+    label: Subscribe
