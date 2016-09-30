@@ -15,7 +15,7 @@ layout_spectrum: 0.42388874548487365
 author:
   name: Jay Martin
   email: james.martin7@gmail.com
-  url: webappzero.com
+  url: ''
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0657e1c7-7516-4c1b-9ed7-24cabbd060db.png
 name: webappzero
@@ -25,7 +25,7 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef4d87e7-e34c-43df-b69c-d5c413740eae.png
-title: web app zero
+title: a path toward mastery
 description: a path toward mastery
 purpose:
   - type: external
