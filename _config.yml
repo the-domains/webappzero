@@ -23,7 +23,8 @@ navigation:
   - name: about
     id: c2ac7c61-0e2d-4a5a-9aa6-98afc5537f3c
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f124418-c63e-42ff-af27-e134aa7bf935.ico
 title: web app zero
 content: []
 description: a path toward mastery
