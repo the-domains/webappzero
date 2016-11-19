@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-19T20:46:33.947Z'
+datePublished: '2016-11-19T20:48:20.047Z'
 sourcePath: _posts/2016-11-08-half-screen-training-debut.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-19T20:46:33.628Z'
+dateModified: '2016-11-19T20:48:19.597Z'
 title: Half-Screen Training Debut
 publisher: {}
 description: >-
