@@ -1,11 +1,13 @@
 ---
-datePublished: '2016-09-30T00:21:30.212Z'
+datePublished: '2016-11-19T20:09:09.322Z'
 sourcePath: _posts/2016-09-26-begin-again-a-gain.md
 inFeed: true
 hasPage: true
-author: []
+author:
+  - name: Lao Tzu
+    url: ''
 via: {}
-dateModified: '2016-09-30T00:21:29.571Z'
+dateModified: '2016-11-19T20:09:08.890Z'
 title: Begin again a gain.
 publisher: {}
 description: Every journey begins with a single step.    --Lao Tzu
@@ -17,6 +19,8 @@ _type: Article
 # Begin again a gain.
 
 > Every journey begins with a single step. --Lao Tzu
+
+---
 
 This image inspires us to breathe in the awe of the monumental task before us.
 ![Let this image remind us to breathe in the awe of the monumental task before us.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51e4ecb8-cc22-483b-9bb9-51c57b972693.jpg)
@@ -37,11 +41,11 @@ I don't have enough time or space in this post to give you all the details of th
 
 This will be an opinionated path. If you want to be a software developer working at a large corporation, this path may not be a good fit. Many such employers desire that you have general knowledge in many languages to show that you can learn quickly and adapt. You'd get some of that here and you're very welcome stay and learn, but you might be better off with a more formal education.
 
-Have you decided to learn to program at home? Or to become a self-guided learner? Me too! It can be a lonely quest. That's why I want to reach out and connect with you. It's good for me too. If you want to build awesome solutions to real world problems that make people's lives better, if you want to be able wrap your head around the stuff you're creating and find real joy in the craft, then I believe you are in the right place, at the right time and I'm eager to help you learn more.
+Have you decided to learn to program at home? Or to become a self-guided learner? Me too! It can be a lonely quest. That's why I want to reach out and connect with you. It's good for me too. If you want to build awesome solutions to real world problems that make people's lives better, if you want to be able wrap your head around the stuff you're creating and find real joy in the craft, then I believe you are in the right place, at the right time, and I'm eager to help you learn more.
 
 This site is about [Mastery][0]. Though I'm not a master yet, I've surrounded myself with [them][1]. My strategy for learning is to help make their lives easier and better in some meaningful way to them, thus conditioning them to welcome me more intimately into their world, so that I can learn from their experience and avoid more mistakes!
 
-If you have capital, a project and need help now, I recommend that you talk to [Cognitect][2], the creators and stewards of Clojure of Datomic, about how they can help you. Also, I just love the feeling of knowing that if I get my project into a jam I can pick up the phone and get the exact help I need. There's probably a Clojure expert near you no matter where you live --- [England][3], [Europe][4] etc.
+If you have capital, a project and need help now, I recommend that you talk to [Cognitect][2], the creators and stewards of Clojure & Datomic about how they can help you. Also, I just love the feeling of knowing that if I get my project into a jam I can pick up the phone and get the exact help I need. There's probably a Clojure expert near you no matter where you live --- [England][3], [Europe][4] etc.
 
 I have some experimental ideas about how we can better support **open source software projects**, while increasing access to Masters for those of us eager to learn. **This is what I'm most excited about right now.**
 
@@ -51,7 +55,7 @@ Maybe you're curious. Cool, you can [subscribe][6] to our mailing list to stay i
 
 Maybe you're eager and want to get started now. Go take this course: **[How to Code: Systematic Program Design][7]**
 
-While you're at it, and preferably even before the above course, the following course is a 'Must' for everyone here: [Learning How to Learn][8] (It's only 4 hours and will dramatically increase your effectiveness!)
+While you're at it, and preferably even before the above course, the following course is of critical importance for everyone here: [Learning How to Learn][8] (It's only 4 hours and will dramatically increase your effectiveness!)
 
 With the money we save on tuition, some of us will choose to splurge on investments to save ourselves more time and frustration. Like a printer that prints both side of a flash card automatically. I'm developing a workflow to share with you whereby you can create flash cards as you study and work on projects. Then you study the flash cards in bed, within 30 minutes of going to sleep which deeply embeds the information in your memory.
 
