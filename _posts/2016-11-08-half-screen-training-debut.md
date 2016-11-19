@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-19T20:10:18.984Z'
+datePublished: '2016-11-19T20:46:33.947Z'
 sourcePath: _posts/2016-11-08-half-screen-training-debut.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-19T20:10:18.465Z'
+dateModified: '2016-11-19T20:46:33.628Z'
 title: Half-Screen Training Debut
 publisher: {}
 description: >-
@@ -16,7 +16,7 @@ url: half-screen-training-debut/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b843e4bd-1857-4479-bf41-564ab4d74dc2.jpg)
+![Sometimes, 'only half' is twice as beautiful](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b843e4bd-1857-4479-bf41-564ab4d74dc2.jpg)
 
 # Half-Screen Training Debut
 
