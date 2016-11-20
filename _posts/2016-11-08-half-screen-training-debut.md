@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-19T22:12:33.231Z'
+datePublished: '2016-11-20T02:03:06.491Z'
 sourcePath: _posts/2016-11-08-half-screen-training-debut.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-19T22:12:32.907Z'
+dateModified: '2016-11-20T02:03:06.102Z'
 title: Half-Screen Training Debut
 publisher: {}
 description: >-
@@ -56,7 +56,7 @@ We'll demonstrate the details of each step in this video TODO:add link , but her
 2. Setup global keyboard shortcuts to control VLC playback functions: Play, Pause & Rewind. (Applescripts used in the video: [vlc-play-pause][2] & [vlc-step-backward][3])
 3. Setup global keyboard shortcuts to move windows into half-screen locations. I'm using the [Moom app][4]. (Note: Alternatively, you can use your operating system's mouse drag feature instead.)
 4. Open your favorite text editor or programming environment and place it on the right half of your screen by using the method established in Step 3\.
-5. Watch [a half-screen video][5] by pasting its [URL][6] into VLC: File | Open Network | URLAlternatively, you can download the video your local system and watch it
+5. Watch [a half-screen video][5] by pasting its [URL][6] into VLC: File | Open Network | URLAlternatively, you can download the video your local system and watch it as you would any other local video.
 6. Control the video from within you editor and immerse yourself in the learning experience. Done.
 
 ## Setup Instructions for Instructors
