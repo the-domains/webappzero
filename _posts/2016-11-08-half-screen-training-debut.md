@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-20T02:29:30.736Z'
+datePublished: '2016-11-20T17:46:03.258Z'
 sourcePath: _posts/2016-11-08-half-screen-training-debut.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-20T02:29:29.977Z'
+dateModified: '2016-11-20T17:46:02.382Z'
 title: Half-Screen Training Debut
 publisher: {}
 description: >-
@@ -50,18 +50,18 @@ One major advantage of this over online tutorials is that the learner is program
 
 (Note: The first edition of this post includes specific instructions for mac users. If you are a Windows or Linux user, please consider writing up some instructions for your platform and sharing with me in the survey below or at my twitter handle @webappzero. Thank you!)
 
-We'll demonstrate the details of each step in this video TODO:add link , but here's a broad look at what we're trying to accomplish:
+We'll demonstrate the details of each step in the video **[Half-Screen Setup for Learners][1]**, but here's a broad look at what we're trying to accomplish:
 
-1. Install the [VLC video player][1] on your computer.
-2. Setup global keyboard shortcuts to control VLC playback functions: Play, Pause & Rewind. (Applescripts used in the video: [vlc-play-pause][2] & [vlc-step-backward][3])
-3. Setup global keyboard shortcuts to move windows into half-screen locations. I'm using the [Moom app][4]. (Note: Alternatively, you can use your operating system's mouse drag feature instead.)
+1. Install the [VLC video player][2] on your computer.
+2. Setup global keyboard shortcuts to control VLC playback functions: Play, Pause & Rewind. (Applescripts used in the video: [vlc-play-pause][3] & [vlc-step-backward][4])
+3. Setup global keyboard shortcuts to move windows into half-screen locations. I'm using the [Moom app][5]. (Note: Alternatively, you can use your operating system's mouse drag feature instead.)
 4. Open your favorite text editor or programming environment and place it on the right half of your screen by using the method established in Step 3\.
-5. Watch [a half-screen video][5] by pasting its [URL][6] into VLC: File | Open Network | URL (Alternatively, you can download the video your local system and watch it as you would any other local video.)
+5. Watch [a half-screen video][6] by pasting its [URL][7] into VLC: File | Open Network | URL (Alternatively, you can download the video your local system and watch it as you would any other local video.)
 6. Control the video from within you editor and immerse yourself in the learning experience. Done.
 
 ## Setup Instructions for Instructors
 
-See this video for a demonstration of the following general steps:
+See the video **[Half-Screen Setup for Instructors][8]** for a demonstration of the following general steps:
 
 1. Follow the steps above for getting setup as a learner.
 2. Set your screen resolution to 1080p (1920 x 1080) to ensure text is readable for learners.
@@ -75,7 +75,7 @@ Done!
 
 Together! Please consider filling out this brief, 3 question survey to provide your feedback and innovations. You can complete the survey multiple times if you have new ideas in the future:
 
-**[Survey Link][7]**
+**[Survey Link][9]**
 
 ## Conclusion
 
@@ -88,10 +88,12 @@ My best,
 j : )
 
 [0]: https://youtu.be/Qteu72H-vNU?t=1m5s "Half-Screen Training Introduction Video"
-[1]: https://www.videolan.org/vlc/index.html "VLC Video Player Homepage"
-[2]: https://gist.github.com/webappzero/98a7fc22efdec8d4e1c4a7f3a19f9a6d "VLC Play Pause AppleScript"
-[3]: https://gist.github.com/webappzero/983f4e1553efa6dafa22f2d0e8fd531e "VLC Step Backward AppleScript"
-[4]: https://manytricks.com/moom/ "Moom"
-[5]: https://youtu.be/umOFZ69iNmc "Sample Half-Screen Video"
-[6]: http://foldoc.org/url "URL Definition"
-[7]: https://goo.gl/forms/1aEHNJOHwPHKlVYy1 "Half-Screen Survey"
+[1]: https://youtu.be/esflnA2Ts4w "Video: Half-Screen Setup for Learners"
+[2]: https://www.videolan.org/vlc/index.html "VLC Video Player Homepage"
+[3]: https://gist.github.com/webappzero/98a7fc22efdec8d4e1c4a7f3a19f9a6d "VLC Play Pause AppleScript"
+[4]: https://gist.github.com/webappzero/983f4e1553efa6dafa22f2d0e8fd531e "VLC Step Backward AppleScript"
+[5]: https://manytricks.com/moom/ "Moom"
+[6]: https://youtu.be/umOFZ69iNmc "Sample Half-Screen Video"
+[7]: http://foldoc.org/url "URL Definition"
+[8]: https://youtu.be/CEAY5JDYZQQ "Video: Half-Screen Training for Instructors"
+[9]: https://goo.gl/forms/1aEHNJOHwPHKlVYy1 "Half-Screen Survey"
