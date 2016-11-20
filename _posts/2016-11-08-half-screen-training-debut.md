@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-20T02:05:11.554Z'
+datePublished: '2016-11-20T02:29:30.736Z'
 sourcePath: _posts/2016-11-08-half-screen-training-debut.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-20T02:05:11.242Z'
+dateModified: '2016-11-20T02:29:29.977Z'
 title: Half-Screen Training Debut
 publisher: {}
 description: >-
@@ -67,7 +67,9 @@ See this video for a demonstration of the following general steps:
 2. Set your screen resolution to 1080p (1920 x 1080) to ensure text is readable for learners.
 3. Whenever possible, use only the **left-half** of your screen for demonstrating computer based training lessons. For exceptions to this rule, be sure to let the learner know that you're switching to full-screen mode within a video so that they know to view the right half of the screen which is presently obscured by their editor.
 4. After demonstrating a step during your recording, you might want to direct learners to pause the video, so they can perform the step you've just demonstrated.
-5. Provide a link to these setup instructions in every half-screen video you publish:http://webappzero.com/half-screen-training-debutDone.
+5. Provide a link to these setup instructions in every half-screen video you publish: http://webappzero.com/half-screen-training-debut
+
+Done!
 
 ## How can _we_ improve this idea?
 
