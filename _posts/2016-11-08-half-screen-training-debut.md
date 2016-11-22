@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-11-22T00:46:22.191Z'
+datePublished: '2016-11-22T00:58:29.076Z'
 sourcePath: _posts/2016-11-08-half-screen-training-debut.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-22T00:46:21.493Z'
+dateModified: '2016-11-22T00:58:28.289Z'
 title: Half-Screen Training Debut
 publisher: {}
 description: >-
   Learn what half-screen computer training is, why it’s helpful and how to get
   started using it today.
-starred: false
+starred: true
 url: half-screen-training-debut/index.html
 _type: Article
 
