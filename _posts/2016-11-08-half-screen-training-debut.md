@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-20T17:46:03.258Z'
+datePublished: '2016-11-22T00:46:22.191Z'
 sourcePath: _posts/2016-11-08-half-screen-training-debut.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-20T17:46:02.382Z'
+dateModified: '2016-11-22T00:46:21.493Z'
 title: Half-Screen Training Debut
 publisher: {}
 description: >-
@@ -87,7 +87,7 @@ My best,
 
 j : )
 
-[0]: https://youtu.be/Qteu72H-vNU?t=1m5s "Half-Screen Training Introduction Video"
+[0]: https://youtu.be/WpFbP0kHnlc?t=1m6s "Video: Half-Screen Training Introduction"
 [1]: https://youtu.be/esflnA2Ts4w "Video: Half-Screen Setup for Learners"
 [2]: https://www.videolan.org/vlc/index.html "VLC Video Player Homepage"
 [3]: https://gist.github.com/webappzero/98a7fc22efdec8d4e1c4a7f3a19f9a6d "VLC Play Pause AppleScript"
